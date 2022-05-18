@@ -1,6 +1,24 @@
-# Getting Started with Create React App
+# 🍨 Desserts Manager
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple SPA built with [ReactJS](https://reactjs.org/). It has one form in modal, a listing of the inserted desserts and a Pie chart. The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## 💻 Demo
+
+To view it online, below is the url:
+
+**[https://inspiring-mochi-9cb7e9.netlify.app/](https://inspiring-mochi-9cb7e9.netlify.app/)**
+
+## 🚀 Deployment
+
+The project is deployed on [Netlify](https://www.netlify.com/).
+
+## 📚 Libraries
+
+The project uses following libraries:
+- [ReactJS](https://reactjs.org/)
+- [Chakra UI](https://chakra-ui.com/)
+- [React Hook Form](https://react-hook-form.com/)
+- [React Minimal Pie Chart](https://www.npmjs.com/package/react-minimal-pie-chart)
 
 ## Available Scripts
 
@@ -13,11 +31,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `yarn build`
 
@@ -39,8 +52,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## 👨‍💻 Author
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Syed Kashan Ali Shah - [www.kashanshah.com](https://www.kashanshah.com/)
